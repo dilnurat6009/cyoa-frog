@@ -1,5 +1,6 @@
 # cyoa-frog
 ---
+### The purpose of creating this repository was to save the frog princess!
 ## Wanna play? 
 #### click [here](quest.md) to begin..
 #### click [here](https://docs.google.com/drawings/d/1E37FJQMjlLERidCVh4cJTH-vXxpOrV_d0WLEqvFYhdU/edit) diagram of this CYOA!!
