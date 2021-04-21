@@ -1,6 +1,6 @@
 # Fight the Gnome - Choose your faith wisely!
 ---
-## Although this gnome has incredible strength, you are doing great. However, you must be mindful of your next move, as this gnome can defeat you at any time! Oh no, the gnome pulls out a sword, but you blast it with a fireball. Hmm.. 
+### Although this gnome has incredible strength, you are doing great. However, you must be mindful of your next move, as this gnome can defeat you at any time! Oh no, the gnome pulls out a sword, but you blast it with a fireball. Hmm.. 
 ---
 Select an option: 
 ## [See results](defeat-nome.md)
