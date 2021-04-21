@@ -1,4 +1,4 @@
-# Nome
+# Gnome
 ---
-## You defeated the nome!! yay!
+### You defeated the Gnome!! yay!
 ## [keep going!](congrats.md)
