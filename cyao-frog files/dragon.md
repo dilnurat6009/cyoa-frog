@@ -4,6 +4,6 @@
 ---
 Select a weapon:
 #### [Gun](fight-gun.md)			
-![Gun](<img src="https://lh3.googleusercontent.com/proxy/pW3451h-R0wGMyJMsW31jjzBTPdd_PpSuykqVAgwgtoeiYFRotxQNKRq0F68TrlVaKxUkn75Sv52d9-JeOMTwcqd7VZTHeo" alt="Free Cartoon Gun Png, Download Free Cartoon Gun Png png images, Free  ClipArts on Clipart Library"/>)
+![Gun](https://lh3.googleusercontent.com/proxy/pW3451h-R0wGMyJMsW31jjzBTPdd_PpSuykqVAgwgtoeiYFRotxQNKRq0F68TrlVaKxUkn75Sv52d9-JeOMTwcqd7VZTHeo" alt="Free Cartoon Gun Png, Download Free Cartoon Gun Png png images, Free  ClipArts on Clipart Library)
 #### [Sword](sword-fight.md)
-![sword](<img src="https://www.pngitem.com/pimgs/m/205-2053410_drawing-knife-cartoon-easy-drawing-of-a-sword.png" alt="Drawing Knife Cartoon - Easy Drawing Of A Sword, HD Png Download ,  Transparent Png Image - PNGitem"/>)
+![sword](https://www.pngitem.com/pimgs/m/205-2053410_drawing-knife-cartoon-easy-drawing-of-a-sword.png" alt="Drawing Knife Cartoon - Easy Drawing Of A Sword, HD Png Download ,  Transparent Png Image - PNGitem)
