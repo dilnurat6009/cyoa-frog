@@ -2,3 +2,4 @@
 --- 
 Select an option: 
 ## [Restart/Go back](quest.md)
+![crying](https://media.tenor.com/images/30ed13f611e5fc147290fae3423ee4d8/tenor.png)

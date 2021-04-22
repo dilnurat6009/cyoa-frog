@@ -5,3 +5,4 @@
 Select an option: 
 ## [See results](defeat-nome.md)
 ## [Give up and retreat](giveup.md)
+![fighting](https://spng.pngfind.com/pngs/s/628-6281259_view-samegoogleiqdbsaucenao-1475150231012-pepe-the-frog-fighting-hd.png)
